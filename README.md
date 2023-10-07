@@ -1,6 +1,19 @@
 ### Hi there 👋, I'm Muhammad Rony B
 #### I'm a MERN STACK  Web Developer.
-![I'm a MERN STACK  Web Developer.](https://github.com/OSP007/OSP007/commit/5466fab18c0c71ee0807e0025cff769d37f95465)
+![I'm a MERN STACK  Web Developer.### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://github.com/OSP007/OSP007/blob/main/1_MebmMJQUm2Nvn7UnZXcChg.jpg)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 I'm Muhammad Rony B.
 I'm a MERN STACK Developer ,
