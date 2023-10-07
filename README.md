@@ -1,6 +1,6 @@
 
-### Hi there 👋, I'm Muhammad Rony B
-#### I'm MERN STACK Developer
+# Hi there 👋, I'm Muhammad Rony B
+## I'm MERN STACK Developer
 ![I'm MERN STACK Developer](https://github.com/OSP007/OSP007/blob/main/1_MebmMJQUm2Nvn7UnZXcChg.jpg)
 
 I'm Muhammad Rony B.
@@ -15,7 +15,7 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / BOOTSTRAP / TAILWIND
 - ⚡ Fun fact: I think I'm funny 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OSP007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrb-rony-81343a281? /)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rony000777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@OpenSourcePundits.)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OSP007)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrb-rony)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rony000777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@OpenSourcePundits.)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=OSP007)](https://github.com/ryo-ma/github-profile-trophy)
 
